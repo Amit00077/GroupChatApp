@@ -14,14 +14,12 @@ This project is a starting point for a Flutter application.
 
 ## Features
 
-- Used firebase
-- Cross platform
-- fluttertoast
+- Group Chat
 - user authentication
  
 ## Tech Used
 
-*Used:* Flutter,Firestore, Firebase,State Management,fluttertoast
+*Used:* Flutter,Firestore, Firebase,State Management,fluttertoast,Shared Preferences 
 
 ## Screenshots
 #### login page.
