@@ -16,6 +16,8 @@ This project is a starting point for a Flutter application.
 
 - Group Chat
 - user authentication
+- user can create new group
+- user can join existing group 
  
 ## Tech Used
 
